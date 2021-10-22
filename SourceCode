@@ -1,0 +1,26 @@
+<html>
+<head>Our gift to you</head>
+<body>
+	<div class="textColumn">
+		<h1>Pick a door</h1>
+		<p>This environment is launched with Elastic Beanstalk</p>
+	</div>
+	<div class="linksColumn">
+		<h2>Doors</h2>
+		<ul>
+			<li>
+				Door
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">1</a>
+			</li>
+			<li>
+				Door
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">2</a>
+			</li>
+			<li>
+				Door
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">3</a>
+			</li>
+		</ul>
+	</div>
+</body>
+</html>
