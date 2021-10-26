@@ -100,18 +100,18 @@ welcome = """
 	</div>
 	<div class="linksColumn">
 		<h2>Doors</h2>
-		<ul>
+			<ul>
 			<li>
 				Door
-				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/duck-song-video/yt5s.com-The+Duck+Song.mp4">1</a>
+				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/rick-rolled-video/yt5s.com-Rick+Astley+-+Never+Gonna+Give+You+Up+(Official+Music+Video).mp4">1</a>
 			</li>
 			<li>
 				Door
-				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/duck-song-video/yt5s.com-The+Duck+Song.mp4">2</a>
+				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/rick-rolled-video/yt5s.com-Rick+Astley+-+Never+Gonna+Give+You+Up+(Official+Music+Video).mp4">2</a>
 			</li>
 			<li>
 				Door
-				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/duck-song-video/yt5s.com-The+Duck+Song.mp4">3</a>
+				<a href="https://team3-web-app-bucket.s3.us-west-2.amazonaws.com/rick-rolled-video/yt5s.com-Rick+Astley+-+Never+Gonna+Give+You+Up+(Official+Music+Video).mp4">3</a>
 			</li>
 		</ul>
 	</div>
